@@ -5,12 +5,12 @@
 **Nombre del proyecto**: Optimización de UX Conversacional
 
 
-Presentación del problema a abordar:  Las Fintech en Colombia enfrentan una alta demanda de consultas sobre productos financieros (créditos, billeteras digitales, transferencias) que saturan los canales de atención humana, generando tiempos de espera prolongados y fricción en la experiencia de usuario (enfocado en el diseño de contenido).Es necesario implementar un agente de servicio al cliente basado en modelos de lenguaje (LLM) que actúe como primer nivel de soporte. Este agente no solo responderá dudas técnicas, sino que mantendrá el tono de voz de la marca (cercano pero profesional) y asistirá en la resolución de problemas comunes mediante el uso de prompts estructurados.
+**Presentación del problema a abordar**:  Las Fintech en Colombia enfrentan una alta demanda de consultas sobre productos financieros (créditos, billeteras digitales, transferencias) que saturan los canales de atención humana, generando tiempos de espera prolongados y fricción en la experiencia de usuario (enfocado en el diseño de contenido).Es necesario implementar un agente de servicio al cliente basado en modelos de lenguaje (LLM) que actúe como primer nivel de soporte. Este agente no solo responderá dudas técnicas, sino que mantendrá el tono de voz de la marca (cercano pero profesional) y asistirá en la resolución de problemas comunes mediante el uso de prompts estructurados.
 
 
-Desarrollo de la solución: Implementar los prompts que podrán usar los agentes de servicio, para agilizar sus respuestas a estas solicitudes basado en modelos de lenguaje (LLM) que actúen como primer nivel de soporte. 
+**Desarrollo de la solución**: Implementar los prompts que podrán usar los agentes de servicio, para agilizar sus respuestas a estas solicitudes basado en modelos de lenguaje (LLM) que actúen como primer nivel de soporte. 
 
-Justificación de la viabilidad del proyecto: La implementación de este sistema de asistencia basado en IA puede ser escalable porque: 
+**Justificación de la viabilidad del proyecto**: La implementación de este sistema de asistencia basado en IA puede ser escalable porque: 
 
 
 Con la actualización del prompt, en esta segunda entrega, el sistema utiliza una estructura de 5 niveles (contexto, objetivo, reglas, formato y ejemplo) lo que garantiza menos alucinaciones con un formato predefinido de respuesta. Además de la alineación de marca.
@@ -25,22 +25,22 @@ Respecto al prompt de imagen a texto: reducir la carga cognitiva puede disminuir
 General: Optimizar la experiencia de usuario (UX) en los canales de atención de una Fintech en Colombia mediante la implementación de un agente conversacional basado en LLM que reduzca la fricción en consultas financieras recurrentes.
 
 
-Específicos:
+**Específicos**:
 Diseñar un prompt maestro estructurado que mantenga la consistencia en el tono de voz de la marca (cercano y profesional).
 Reducir la carga operativa del soporte humano en un 20-30% mediante la resolución automatizada de primer nivel.
 Implementar guías visuales (maquetas de imagen) para mejorar la comprensión de procesos transaccionales complejos.
 
 
-Metodología: El proyecto se desarrollará bajo un enfoque iterativo de UX Content Design, siguiendo estos procedimientos:
+**Metodología**: El proyecto se desarrollará bajo un enfoque iterativo de UX Content Design, siguiendo estos procedimientos:
 Auditoría de conversaciones: Identificación de los intents o dudas más frecuentes (saldos, transferencias, seguridad).
 Diseño de la arquitectura del prompt: Aplicación de un marco de trabajo de 5 niveles para asegurar que la IA no se desvíe del contexto financiero colombiano.
 Prototipado y Simulación: Creación de un entorno controlado en Jupyter Notebook para validar que las respuestas sigan el orden lógico: Empatía > Explicación > Acción.
 Validación mediante Test A/B: Se implementarán dos variantes de tono para medir cuál genera menor tasa de escalamiento a humanos, optimizando la solidez operativa del sistema.
 
-Herramientas y tecnología
+**Herramientas y tecnología**
 Para asegurar que el asistente hable el mismo lenguaje que nuestros usuarios, iteré el prompt para darle un rol y personalidad más detallada: experto en UX Content que entiende perfectamente el contexto de nuestra FinTech. A esto también sumé la metodología de few shoot prompting, dándole ejemplos reales de interacciones para que aprenda a responder con la estructura exacta que buscamos sin errores. Finalmente, apliqué una estructuración de salida muy clara; así, las respuestas no son párrafos densos, sino mensajes fáciles de escanear y realmente útiles para el cliente.
 
-Implementación:
+**Implementación**:
 
 <Context_and_Persona> Actúa como un experto en UX Content Design para una fintech líder en Colombia.
 
