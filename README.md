@@ -87,4 +87,9 @@ Saldo suficiente
 
 Con el siguiente resultado: <img width="1724" height="873" alt="Resultado de promp texto-imagen" src="https://github.com/user-attachments/assets/c9612c33-f141-4b08-a4c9-e19a65f4fd6e" />
 
+**Resultados**: La implementación de los prompts iterados, permiten a la Fintech una resolución efectiva en el primer contacto. Esto debido a que el sistema identifica intenciones críticas como fallas de transferencia o alertas de seguridad para entregar soluciones inmediatas sin intervención humana, estas respuestas apoyadas de imágenes  mejoran la calidad y claridad de la información reduciendo el recontacto.  Gracias a los ajustes técnicos realizados, se eliminaron las respuestas nulas o errores de "None", garantizando que el usuario siempre reciba una guía clara, incluso ante consultas fuera de los escenarios previstos. En conclusión, se logra la solución esperada al balancear la automatización técnica con el tono de voz empático y profesional definido para FinTechCo.
 
+
+**Conclusiones**: El proyecto finalizó con el cumplimiento total de los objetivos propuestos al diseñar una prueba de concepto (POC) que estandariza la comunicación de la solucipon. El proceso de desarrollo me permitió entender a profundidad la lógica que existe detrás de los prompts que diseño diariamente como Content Designer en UX. De igual forma, aplicar una estructura de cinco niveles fue fundamental para reducir las alucinaciones del modelo y asegurar que el formato de salida se mantuviera consistente en cada interacción.
+
+A nivel personal y profesional, me encantó descubrir nuevas herramientas de IA y programación para implementar en mi día a día laboral. Este ejercicio me ayudó a dominar la lógica de iteración, comprendiendo que el diseño de contenido para IA es un proceso vivo que requiere pruebas constantes para perfeccionarse. 
