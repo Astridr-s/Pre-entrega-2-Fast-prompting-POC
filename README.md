@@ -74,8 +74,17 @@ Asistente: Lamento mucho esta situación, vamos a proteger tu dinero de inmediat
 Prompt 2
 Este prompt será utilizado para ciertas respuestas en las que una ayuda visual mejore la calidad de la información. Dentro de los ejemplos propuestos, tomé el Ejemplo #2, para crear una imagen en NightCafe. El prompt creado es:
 
-Por favor crea una imagen de un primer plano estilizado de la pantalla de la aplicación móvil de FinTechCo. La interfaz de usuario es limpia y moderna. Es una indicación para que el cliente verifique la conexión a internet en un ceular.  Una flecha minimalista y sutil apunta directamente a esa opción. El resto de la pantalla está ligeramente desenfocado para resaltar la acción. Estilo de arte vectorial profesional, alta resolución, iluminación de estudio suave, enfoque claro y amigable.
+Por favor crea una imagen Una tarjeta infográfica limpia, profesional y minimalista para una aplicación móvil de fintech. La imagen muestra al cliente que debe revisar que el saldo total sea suficiente Los pasos se mueven verticalmente o en una fila clara. Los colores son vibrantes pero profesionales: verde esmeralda, blanco puro y un toque de gris claro. El fondo es una interfaz móvil suave y desenfocada.  Iluminación de estudio, alto contraste, marcadores de posición de tipografía limpios, resolución 4k, estilo de interfaz fácil de usar.
 
-Con el siguiente resultado: <img width="1727" height="875" alt="Resultado de promp texto-imagen" src="https://github.com/user-attachments/assets/3a6218ca-d251-48d9-a1d9-1062ec2b71fb" />
+Usa los textos en claro español:
+
+Fintech
+Hacer una transferencia
+Saldo total
+Saldo en bolsillos
+Saldo suficiente
+
+
+Con el siguiente resultado: <img width="1724" height="873" alt="Resultado de promp texto-imagen" src="https://github.com/user-attachments/assets/c9612c33-f141-4b08-a4c9-e19a65f4fd6e" />
 
 
